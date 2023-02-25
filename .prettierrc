@@ -11,5 +11,5 @@
   "arrowParens": "always",
   "endOfLine": "lf",
   "vueIndentScriptAndStyle": false,
-  "printWidth": 80
+  "printWidth": 100
 }
