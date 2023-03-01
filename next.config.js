@@ -4,6 +4,9 @@ const nextConfig = {
     appDir: true,
   },
   reactStrictMode: true,
+  images: {
+    remotePatterns: [{ hostname: 'rickandmortyapi.com' }],
+  },
 };
 
 module.exports = nextConfig;
